@@ -47,5 +47,5 @@ The implemented system can be used in applications such as:
 1. **Clone the Repository**:
    ```bash
    conda create --name chroma-llm-rag python=3.10.15
-   git clone https://github.com/ThisIsFarhan/chroma-llm-rag.git
-   cd chroma-llm-rag
+   git clone https://github.com/ThisIsFarhan/VectorDB.git
+   cd VectorDB
